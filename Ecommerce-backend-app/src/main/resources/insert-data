@@ -1,0 +1,7 @@
+INSERT INTO product (name, brand, price, category, description, stock_quantity, product_available, release_date)
+VALUES
+('Ultra HD TV', 'Samsung', 799.99, 'Electronics', '55-inch Ultra HD 4K Smart TV with HDR support and built-in Wi-Fi.', 50, true, '2023-07-10'),
+('Gaming Laptop', 'ASUS', 1499.99, 'Electronics', 'High-performance gaming laptop with a 15.6-inch display and NVIDIA GTX 1650.', 25, true, '2023-05-22'),
+('Bluetooth Earbuds', 'Apple', 159.99, 'Electronics', 'True wireless earbuds with active noise cancellation and touch controls.', 100, true, '2023-08-15'),
+('Office Desk', 'Ikea', 119.99, 'Furniture', 'Spacious office desk with multiple drawers and an ergonomic design.', 35, true, '2023-04-25'),
+('Adjustable Chair', 'Herman Miller', 349.99, 'Furniture', 'Ergonomic office chair with adjustable height and lumbar support.', 20, true, '2023-06-01');
